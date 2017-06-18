@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "webdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -472,13 +472,23 @@
                 "thumb": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
@@ -929,6 +939,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-13",
           "_params": {
             "labelsColor": "#232323",
@@ -974,12 +989,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_tags": [
@@ -1054,8 +1064,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/activewellnesswebsite-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/activewellnesswebsite-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1064,8 +1074,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/keyshorts-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/keyshorts-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1074,8 +1084,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/outontown-site-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/outontown-site-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1084,8 +1094,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/christmas-cards-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/christmas-cards-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hopealliance-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hopealliance-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1094,48 +1104,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/evolv-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/evolv-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jtequila-bannery-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jtequila-bannery-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naples-pizza-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naples-pizza-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naples-menu-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naples-menu-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/athena-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/athena-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
