@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "graphicdesign.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -371,7 +371,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -689,7 +689,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -854,7 +854,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -1076,7 +1076,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -1314,7 +1314,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -1592,7 +1592,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -1757,7 +1757,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     },
@@ -2035,7 +2035,7 @@
           },
           "text1": "",
           "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br>Web Design<br>Artwork<br>Contact"
+          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br>About<br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br>Artwork<br>Contact"
         }
       ]
     }
