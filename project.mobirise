@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "webdesign.html",
+    "currentPage": "graphicdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -382,7 +382,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Animated",
@@ -482,10 +482,40 @@
                 "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/digitalmagcover-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/digitalmagcover-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/txdot-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/txdot-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "0",
             "showText": false,
             "filter": false,
             "bgColor": "#ffffff",
