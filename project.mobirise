@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "graphicdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -507,18 +507,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/digitalmagcover-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/digitalmagcover-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/txdot-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/txdot-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -705,6 +695,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header1-1c",
           "_params": {
             "parallax": true,
@@ -727,12 +722,7 @@
           },
           "title": "HELLO, I'M RACHEL",
           "text": "I've been passionate about art and design since my childhood days of drawing just about anything on demand and creating homemade greeting cards from recycled products.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
