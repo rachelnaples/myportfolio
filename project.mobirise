@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "webdesign.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -286,7 +286,7 @@
           "title3": "Artwork<br>",
           "subtitle3": "<br>surreal, illustration, symbolic, organic<br><br>All designs are conceptualized and executed by&nbsp;<div>Rachel Naples.</div>",
           "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
