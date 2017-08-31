@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "rnaples_resume.html",
+    "currentPage": "about.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -735,7 +735,7 @@
             "paddingBottom": 1,
             "bgColor": "#f7da64"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">VIEW RESUME</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"rnaples_resume.html\" data-toolbar=\"-mbrBtnMove\">VIEW RESUME</a>"
         },
         {
           "_styles": {
