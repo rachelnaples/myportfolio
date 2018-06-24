@@ -1371,7 +1371,7 @@
             "showBullets": false,
             "fullWidth": true,
             "spacing": 1,
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "filterBgColor": true,
             "bgColor": "#000000",
