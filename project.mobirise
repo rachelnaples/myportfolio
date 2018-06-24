@@ -1368,7 +1368,7 @@
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": true,
             "spacing": 1,
             "paddingTop": 1,
@@ -1446,7 +1446,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1467,17 +1468,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-2000x1333-800x533.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-2000x1333-800x533-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
