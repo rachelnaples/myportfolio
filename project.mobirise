@@ -1391,8 +1391,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/alchemist-2-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alchemist-2-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "The Alchemist",
+                "title": "The Alchemist from the Katharsis series",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1403,8 +1403,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-1-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "Writhe",
+                "alt": "Self Portrait: Venus in Metamorphosis ",
+                "title": "Self Portrait: Venus in Metamorphosis from the Katharsis series",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1415,22 +1415,22 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/writhe-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/writhe-1-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Writhe",
+                "title": "Writhe from the Katharsis series",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/ilmiocuore-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ilmiocuore-2000x1333-800x533.jpg",
+                "alt": "Il Mio Cuore",
+                "title": "Il Mio Cuore from the Katharsis series",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1515,7 +1515,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
