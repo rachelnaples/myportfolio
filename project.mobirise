@@ -304,7 +304,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1442,17 +1442,17 @@
                 "alt": "Adonna",
                 "title": "Self Portrait:  Adonna (photograph)",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/crestnmoon-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crestnmoon-2000x1333-800x533.jpg",
+                "alt": "Crest 'N' Moon",
+                "title": "Crest 'N' Moon: Digital art series",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1461,10 +1461,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/inlightofnight-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inlightofnight-2000x1333-800x533.jpg",
+                "alt": "In the Light of Night",
+                "title": "In the Light of Night: Digital Art Series",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1473,12 +1473,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/illusionofthought-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/illusionofthought-2000x1333-800x533.jpg",
+                "alt": "Illusion of Thought",
+                "title": "Illusion of Thought:  Digital Art Series",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
