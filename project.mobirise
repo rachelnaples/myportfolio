@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "graphicdesign.html",
+    "currentPage": "artwork.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1221,10 +1221,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1380,7 +1380,7 @@
             "paddingTop": "4",
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "showText": false,
             "filter": false,
             "images": [
@@ -1389,8 +1389,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/alchemist-600x399.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alchemist-600x399-600x399.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alchemist-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alchemist-2-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1401,8 +1401,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/writhe-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/writhe-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "Writhe",
                 "caption": "Type caption here",
@@ -1413,12 +1413,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-2000x1333-800x533.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/venusinmetamorphosis-2000x1333-800x533-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/writhe-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/writhe-1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1477,7 +1477,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
