@@ -316,7 +316,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1430,18 +1430,19 @@
                 "alt": "Il Mio Cuore",
                 "title": "Il Mio Cuore from the Katharsis series",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+                "image": "@PROJECT_PATH@/assets/images/adonna-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adonna-2000x1333-800x533.jpg",
+                "alt": "Adonna",
+                "title": "Self Portrait:  Adonna (photograph)",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Beautiful",
