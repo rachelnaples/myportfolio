@@ -1515,10 +1515,13 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/crimes-videostill-1400x933.jpg",
+              "link": "https://youtu.be/3JWwOjT9iFc",
+              "alt": "Crimes",
+              "title": "Crimes- video editing project",
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://youtu.be/3JWwOjT9iFc",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -1526,8 +1529,11 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "play",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 250
+              "size": ""
             }
           },
           "title": "\"Crimes\"&nbsp;<br>video editing project",
