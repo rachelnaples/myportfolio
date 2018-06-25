@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "artwork.html",
+    "currentPage": "graphicdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -403,22 +403,22 @@
             "filter": false,
             "images": [
               {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -497,8 +497,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -507,8 +507,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hawaiipostcard-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/acwp-postcard-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -520,7 +520,37 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -1662,171 +1692,6 @@
             }
           },
           "_anchor": "contacts1-12",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#b8312f",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/r-logo-330x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<b>Contact <br></b><br>Email: <a href=\"mailto:rachelnaples@me.com\">rachelnaples@me.com</a><br>Phone: 512-468-5994<br>",
-          "text3": "<strong>Links<font color=\"#ffffff\"><br></font></strong><br><a href=\"about.html\">About</a><br><a href=\"graphicdesign.html\">Graphic Design</a><br><a href=\"webdesign.html\">Web Design</a><br><a href=\"artwork.html\">Artwork</a><br><a href=\"contact.html\">Contact</a>"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "title": "About the designer",
-        "meta_descr": "experience, skills, creative talent, artwork, passion, dedication, perseverance",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#f74b21"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f86743!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f97352"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c1c1c1!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-14",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#f97352",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/r-logo-330x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rachel Naples</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PORTFOLIO<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesign.html\">GRAPHIC DESIGN<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesign.html\">WEB DESIGN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artwork.html\">ARTWORK</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">CONTACT</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-15",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017 Rachel Naples"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "B": {
-              "color": "#a38f84",
-              "font-size": "16px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "STRONG": {
-              "color": "#a38f84"
-            }
-          },
-          "_anchor": "contacts1-16",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
