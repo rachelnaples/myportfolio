@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "artwork.html",
+    "currentPage": "graphicdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -511,12 +511,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/atomic-logo-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/atomic-logo-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": "",
-                "title": ""
+                "active": true,
+                "alt": "Active Wellness Brochure",
+                "title": "Active Wellness Trifold Brochure"
               },
               {
                 "tags": "Creative",
@@ -526,7 +526,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               }
