@@ -395,10 +395,10 @@
           "_name": "gallery2",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
+            "fullWidth": false,
+            "spacing": "2",
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "#ffffff",
             "showText": true,
