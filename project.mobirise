@@ -401,7 +401,7 @@
             "paddingBottom": "3",
             "filterBgColor": false,
             "bgColor": "#ffffff",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -411,7 +411,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/actwns-logo-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Active Wellness logo",
                 "active": false
               },
               {
@@ -421,7 +421,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Active Wellness flyer",
                 "active": false
               },
               {
@@ -431,7 +431,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/actwns-stationary-set-web-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Active Wellness stationary",
                 "active": false
               },
               {
@@ -441,7 +441,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tlc-infographic-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Texas Legislative Commission infographic",
                 "active": false
               },
               {
@@ -451,7 +451,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/christmas-cards-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/christmas-cards-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Christmas Greeting Cards",
                 "active": false
               },
               {
@@ -461,7 +461,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jtequila-bannery-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jtequila-bannery-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Johnny Tequila banner backdrop",
                 "active": false
               },
               {
@@ -471,7 +471,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/naples-pizza-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naples-pizza-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Naples Pizza Caffe logo",
                 "active": false
               },
               {
@@ -481,7 +481,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/naples-menu-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/naples-menu-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Naples Pizza Caffe menu",
                 "active": false
               },
               {
@@ -491,7 +491,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Shrimporee poster/tee shirt design",
                 "active": false
               },
               {
@@ -501,7 +501,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/txdot-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/txdot-1-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "TxDot flyer &amp; newsletter",
                 "active": false,
                 "alt": "",
                 "title": ""
@@ -513,7 +513,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Active Wellness trifold brochure",
                 "active": true,
                 "alt": "Active Wellness Brochure",
                 "title": "Active Wellness Trifold Brochure"
@@ -525,7 +525,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "ACWP direct mailer post card",
                 "active": false,
                 "alt": "",
                 "title": ""
