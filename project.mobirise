@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "rnaples_resume.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1842,7 +1842,7 @@
           "_params": {
             "showTitle": false,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "66",
             "paddingTop": "1",
@@ -1883,7 +1883,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD PDF</a>",
           "_tags": [
             "Theme"
           ],
