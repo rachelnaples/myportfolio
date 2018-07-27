@@ -394,14 +394,14 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": false,
             "spacing": "2",
             "paddingTop": "4",
             "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "#ffffff",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "images": [
               {
@@ -538,7 +538,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258-800x584.png",
                 "image": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258.png",
                 "caption": "ACWP direct mailer post card",
-                "active": false,
+                "active": true,
                 "alt": "Ballantines Whisky label and box wrap",
                 "title": "Ballantines Delicate Citrus"
               },
@@ -550,7 +550,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/the-nun-drawing-2000x3000-800x1200.png",
                 "image": "@PROJECT_PATH@/assets/images/the-nun-drawing-2000x3000.png",
                 "caption": "ACWP direct mailer post card",
-                "active": true,
+                "active": false,
                 "alt": "The Nun Movie Poster",
                 "title": "The Nun Movie Poster"
               }
