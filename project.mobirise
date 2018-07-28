@@ -740,7 +740,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
