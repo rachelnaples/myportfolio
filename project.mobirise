@@ -409,12 +409,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258-800x584.png",
-                "image": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ballantines-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/ballantines-2000x1333.png",
                 "caption": "Ballantine's Whisky label &amp; box wrap",
                 "active": false,
                 "alt": "Ballantines Whisky label and box wrap",
-                "title": "Ballantines Delicate Citrus"
+                "title": "Ballantines Delicate Citrus whisky label design"
               },
               {
                 "tags": "Creative",
@@ -469,10 +469,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/the-nun-drawing-2000x3000-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/the-nun-drawing-2000x3000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/nun-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/nun-2000x1333.png",
                 "caption": "The Nun Movie Poster",
-                "active": false,
+                "active": true,
                 "alt": "The Nun Movie Poster",
                 "title": "The Nun Movie Poster"
               },
@@ -494,7 +494,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333.jpg",
                 "caption": "Active Wellness trifold brochure",
-                "active": true,
+                "active": false,
                 "alt": "Active Wellness Brochure",
                 "title": "Active Wellness Trifold Brochure"
               },
