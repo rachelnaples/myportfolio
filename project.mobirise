@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "graphicdesign.html",
+    "currentPage": "artwork.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1484,6 +1484,18 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/indc-2000x1333.png",
+                "thumb": "@PROJECT_PATH@/assets/images/indc-2000x1333-800x533.png",
+                "alt": "In DC",
+                "title": "DADA style art for Moxy DC",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1517,7 +1529,7 @@
                 "alt": "Illusion of Thought",
                 "title": "Illusion of Thought:  Digital Art Series",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
