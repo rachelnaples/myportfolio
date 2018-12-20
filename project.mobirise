@@ -423,7 +423,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/movenpick-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/movenpick-2000x1333.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "caption": "Movenpick coffee can design",
                 "active": false,
                 "alt": "Movenpick",
                 "title": "Movenpick: can label design"
@@ -435,7 +435,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/absolutvodkaspec-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/absolutvodkaspec-2000x1333.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "caption": "Absolut Vodka Limited Edition Bag",
                 "active": false,
                 "alt": "Absolut Vodka",
                 "title": "Absolut Vodka: Limited Edition bag designs"
@@ -447,7 +447,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/aquaman-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/aquaman-2000x1333.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "caption": "Aquaman movie posters",
                 "active": false,
                 "alt": "Aquaman Movie Posters",
                 "title": "Aquaman original movie poster designs"
@@ -459,7 +459,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/glass-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/glass-2000x1333.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "caption": "Glass movie poster",
                 "active": false,
                 "alt": "Glass Movie Poster",
                 "title": "Glass original movie poster design"
@@ -575,7 +575,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ar-t-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/ar-t-2000x1333.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "caption": "Ar-T the art of tea- tee shirt designs",
                 "active": false,
                 "alt": "Ar-T tee shirt designs",
                 "title": "Ar-T original tee shirt designs"
