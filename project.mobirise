@@ -419,6 +419,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333.jpg",
+                "caption": "Active Wellness trifold brochure",
+                "active": true,
+                "alt": "Active Wellness Brochure",
+                "title": "Active Wellness Trifold Brochure"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/actwns-flyer-2000x1333.jpg",
                 "caption": "Active Wellness flyer",
@@ -493,42 +505,6 @@
                 "image": "@PROJECT_PATH@/assets/images/shrimporee-poster-web-2000x1333.jpg",
                 "caption": "Shrimporee poster/tee shirt design",
                 "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/txdot-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/txdot-1-2000x1333.jpg",
-                "caption": "TxDot flyer &amp; newsletter",
-                "active": false,
-                "alt": "",
-                "title": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/activewellnessbrochure-2000x1333.jpg",
-                "caption": "Active Wellness trifold brochure",
-                "active": false,
-                "alt": "Active Wellness Brochure",
-                "title": "Active Wellness Trifold Brochure"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/acwp-postcard-1-2000x1333.jpg",
-                "caption": "ACWP direct mailer post card",
-                "active": false,
-                "alt": "",
-                "title": ""
               },
               {
                 "tags": "Creative",
@@ -610,7 +586,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ar-t-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/ar-t-2000x1333.png",
                 "caption": "Ballantine's Whisky label &amp; box wrap",
-                "active": true,
+                "active": false,
                 "alt": "Ar-T tee shirt designs",
                 "title": "Ar-T original tee shirt designs"
               }
