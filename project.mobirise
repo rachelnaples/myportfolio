@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "graphicdesign.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -538,7 +538,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258-800x584.png",
                 "image": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258.png",
                 "caption": "Ballantine's Whisky label &amp; box wrap",
-                "active": true,
+                "active": false,
                 "alt": "Ballantines Whisky label and box wrap",
                 "title": "Ballantines Delicate Citrus"
               },
@@ -553,6 +553,66 @@
                 "active": false,
                 "alt": "The Nun Movie Poster",
                 "title": "The Nun Movie Poster"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/movenpick-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/movenpick-2000x1333.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": false,
+                "alt": "Movenpick",
+                "title": "Movenpick: can label design"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/absolutvodkaspec-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/absolutvodkaspec-2000x1333.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": false,
+                "alt": "Absolut Vodka",
+                "title": "Absolut Vodka: Limited Edition bag designs"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glass-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/glass-2000x1333.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": false,
+                "alt": "Glass Movie Poster",
+                "title": "Glass original movie poster design"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aquaman-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/aquaman-2000x1333.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": false,
+                "alt": "Aquaman Movie Posters",
+                "title": "Aquaman original movie poster designs"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ar-t-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/ar-t-2000x1333.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": true,
+                "alt": "Ar-T tee shirt designs",
+                "title": "Ar-T original tee shirt designs"
               }
             ]
           },
