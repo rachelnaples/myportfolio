@@ -409,6 +409,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258-800x584.png",
+                "image": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258.png",
+                "caption": "Ballantine's Whisky label &amp; box wrap",
+                "active": false,
+                "alt": "Ballantines Whisky label and box wrap",
+                "title": "Ballantines Delicate Citrus"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/movenpick-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/movenpick-2000x1333.png",
                 "caption": "Ballantine's Whisky label &amp; box wrap",
@@ -555,18 +567,6 @@
                 "image": "@PROJECT_PATH@/assets/images/naples-menu-2000x1333.jpg",
                 "caption": "Naples Pizza Caffe menu",
                 "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258-800x584.png",
-                "image": "@PROJECT_PATH@/assets/images/del-citbottle-box-mock-up-rn-1724x1258.png",
-                "caption": "Ballantine's Whisky label &amp; box wrap",
-                "active": false,
-                "alt": "Ballantines Whisky label and box wrap",
-                "title": "Ballantines Delicate Citrus"
               },
               {
                 "tags": "Creative",
